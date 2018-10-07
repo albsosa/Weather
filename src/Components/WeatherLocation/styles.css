@@ -1,0 +1,13 @@
+.LocationCont > h1 {
+  margin: 0;
+  font-size: 18px;
+  padding: 5px;
+  text-align: left;
+}
+
+.WeatherLocationCont {
+  width: calc(100% - 10px);
+  min-width: 370px;
+  box-sizing: border-box;
+  padding: 10px;
+}
